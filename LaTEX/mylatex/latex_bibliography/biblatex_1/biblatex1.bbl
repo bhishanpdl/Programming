@@ -1,0 +1,44 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{key}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Hartle}{H.}%
+     {J.B.}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Addison-Wesley}%
+  }
+  \strng{namehash}{HJ1}
+  \strng{fullhash}{HJ1}
+  \field{sortinit}{H}
+  \field{isbn}{9780805386622}
+  \field{title}{Gravity: An Introduction to Einstein's General Relativity}
+  \verb{url}
+  \verb https://books.google.com/books?id=ZHgpAQAAMAAJ
+  \endverb
+  \field{year}{2003}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

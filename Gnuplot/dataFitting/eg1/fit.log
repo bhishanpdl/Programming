@@ -1,0 +1,38 @@
+
+
+*******************************************************************************
+Thu Dec  3 23:20:11 2015
+
+
+FIT:    data read from file u 2:3
+        format = x:z
+        #datapoints = 162
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=I0*exp(-k*x**(1.0/n))
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   I0            k             n            
+   0 1.3061551744e+06   0.00e+00  9.83e+02    5.000000e+03   1.000000e-01   1.000000e+00
+ 471 1.7565416577e+04  -9.95e-01  9.83e-01    3.102575e+05   2.952179e+00   4.227121e+00
+
+After 471 iterations the fit converged.
+final sum of squares of residuals : 17565.4
+rel. change during last iteration : -9.94621e-06
+
+degrees of freedom    (FIT_NDF)                        : 159
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 10.5107
+variance of residuals (reduced chisquare) = WSSR/ndf   : 110.474
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+I0              = 310258           +/- 5.624e+04    (18.13%)
+k               = 2.95218          +/- 0.1537       (5.207%)
+n               = 4.22712          +/- 0.1276       (3.018%)
+
+correlation matrix of the fit parameters:
+                I0     k      n      
+I0              1.000 
+k               0.999  1.000 
+n               0.996  0.999  1.000 

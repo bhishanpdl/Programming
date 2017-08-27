@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: bibtex_citations.aux
+The style file: plainnat.bst
+Database file #1: mybib.bib
+Illegal end of database file---line 16 of file mybib.bib
+ :     howpublished={\url{https://www.cfa.harvard.edu/~fbecerra/files/Ay202b_TermPaper.pdf}}
+ :                                                                                          
+I'm skipping whatever remains of this entry
+Warning--empty journal in bib01
+You've used 2 entries,
+            2773 wiz_defined-function locations,
+            605 strings with 5078 characters,
+and the built_in function-call counts, 758 in all, are:
+= -- 66
+> -- 20
+< -- 3
++ -- 8
+- -- 6
+* -- 38
+:= -- 114
+add.period$ -- 6
+call.type$ -- 2
+change.case$ -- 8
+chr.to.int$ -- 2
+cite$ -- 5
+duplicate$ -- 42
+empty$ -- 75
+format.name$ -- 8
+if$ -- 164
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 1
+newline$ -- 18
+num.names$ -- 8
+pop$ -- 24
+preamble$ -- 1
+purify$ -- 6
+quote$ -- 0
+skip$ -- 36
+stack$ -- 0
+substring$ -- 24
+swap$ -- 8
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 22
+warning$ -- 1
+while$ -- 8
+width$ -- 0
+write$ -- 31
+(There was 1 error message)

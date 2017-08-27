@@ -1,0 +1,113 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2015.7.3)  30 AUG 2015 14:31
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**sideCaption.tex
+(./sideCaption.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 2 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/sidecap/sidecap.sty
+Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\SC@BOXWD=\dimen105
+\SC@CAPWD=\dimen106
+\SC@tempdima=\dimen107
+\SC@tempdimb=\dimen108
+\c@SC@C=\count87
+\SC@BOX=\box26
+) (./sideCaption.aux)
+\openout1 = `sideCaption.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+(/usr/share/texlive/texmf-dist/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 126.
+)
+\CenteringLeftskip=\skip43
+\RaggedLeftLeftskip=\skip44
+\RaggedRightLeftskip=\skip45
+\CenteringRightskip=\skip46
+\RaggedLeftRightskip=\skip47
+\RaggedRightRightskip=\skip48
+\CenteringParfillskip=\skip49
+\RaggedLeftParfillskip=\skip50
+\RaggedRightParfillskip=\skip51
+\JustifyingParfillskip=\skip52
+\CenteringParindent=\skip53
+\RaggedLeftParindent=\skip54
+\RaggedRightParindent=\skip55
+\JustifyingParindent=\skip56
+)
+File: gull.eps Graphic file (type eps)
+ <gull.eps> [1] (./sideCaption.aux) ) 
+Here is how much of TeX's memory you used:
+ 728 strings out of 495029
+ 9425 string characters out of 6181524
+ 55643 words of memory out of 5000000
+ 3990 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 25i,5n,20p,208b,249s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on sideCaption.dvi (1 page, 360 bytes).

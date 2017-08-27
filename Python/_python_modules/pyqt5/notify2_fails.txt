@@ -1,0 +1,8 @@
+********************************************************************************
+# ==============================================================================
+# Date   : Aug 17, 2017 Thu
+# Summary: Desktop notification on Macos
+# ==============================================================================
+
+1. python moudle notify installs but needs dbus and installation of
+dbus is not supported in mac os platform.

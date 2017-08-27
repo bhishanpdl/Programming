@@ -1,0 +1,2 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Care in evaluating functions}{2}{section.1}

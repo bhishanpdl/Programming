@@ -1,0 +1,19 @@
+\documentclass{article}
+
+% new command example
+%\newcommand{\arnold{}}{Arnold Schwarzenegger} % method 1
+
+
+
+\begin{document}
+
+%\newcommand{\ACROeg}{e.\,g.}
+\def\ACROe*{e.\,g.}
+
+
+\def\arnold*{Arnold Schwarzenegger}
+\section{Example 1}
+This is a sample sentence, \ACROe* it does not make much sense.
+\arnold* is an American actor.\\
+
+\end{document}

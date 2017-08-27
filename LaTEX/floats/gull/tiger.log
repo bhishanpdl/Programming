@@ -1,0 +1,132 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2015.7.3)  31 AUG 2015 10:26
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**tiger.tex
+(./tiger.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 2 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/dvipdfmx-def/dvipdfmx.def
+File: dvipdfmx.def 2014/01/23 v3.4 LaTeX graphics driver for dvipdfmx (TeX Live
+/ChoF)
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/bmpsize.sty
+Package: bmpsize 2009/09/04 v1.6 Extract size/resolution from bitmap files (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/bmpsize-base.sty
+Package: bmpsize-base 2009/09/04 v1.6 Basic part of bmpsize (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-basic.sty
+Package: fp-basic 1996/05/13
+
+`Basic Fixed Point Arithmetic',  Version 1.2d (C) Michael Mehlich             
+\FP@xs=\count87
+\FP@xia=\count88
+\FP@xib=\count89
+\FP@xfa=\count90
+\FP@xfb=\count91
+\FP@rega=\count92
+\FP@regb=\count93
+\FP@regs=\count94
+\FP@times=\count95
+) (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-snap.sty
+Package: fp-snap 1995/04/05
+
+`Fixed Point Snap Off',          Version 1.0a (C) Michael Mehlich             )
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/bmpsize-dvipdfmx.def
+File: bmpsize-dvipdfmx.def 2009/09/04 v1.6 Graphics bitmap driver for dvipdfmx 
+(HO)
+\@bmpsize@count=\count96
+))
+No file tiger.aux.
+\openout1 = `tiger.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+( FP-DIV ) ( FP-DIV )
+File: tiger.jpg Graphic file (type bmp)
+ <tiger.jpg> [1
+
+] (./tiger.aux) ) 
+Here is how much of TeX's memory you used:
+ 1048 strings out of 495029
+ 14377 string characters out of 6181524
+ 66962 words of memory out of 5000000
+ 4294 multiletter control sequences out of 15000+600000
+ 3938 words of font info for 15 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 32i,4n,26p,237b,226s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on tiger.dvi (1 page, 348 bytes).
