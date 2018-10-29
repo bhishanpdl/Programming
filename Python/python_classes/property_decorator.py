@@ -57,7 +57,7 @@ class Celsius:
 
     def set_temp(self, value):
         if value < -273:
-            raise ValueError("temp below -273.15 Celsius (-459.67 F = 0 K) is not possible")
+            raise ValueError("temp below -273.15 Celsius (-459.67 F = 0 K absolute zero) is not possible")
         print("Setting value")
         self._temp = value
 
@@ -81,7 +81,7 @@ class Celsius:
     @temp.setter
     def temp(self, value):
         if value < -273:
-            raise ValueError("temp below -273.15 Celsius (-459.67 F = 0 K) is not possible")
+            raise ValueError("temp below -273.15 Celsius (-459.67 F = 0 K  absolute zero) is not possible")
         print("Setting value")
         self._temp = value
 
